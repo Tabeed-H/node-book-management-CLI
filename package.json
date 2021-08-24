@@ -1,0 +1,24 @@
+{
+  "name": "node-book-management-CLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabeed-H/node-book-management-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabeed-H/node-book-management-CLI/issues"
+  },
+  "homepage": "https://github.com/Tabeed-H/node-book-management-CLI#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.1.1"
+  }
+}
